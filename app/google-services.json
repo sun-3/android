@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014456028350",
+    "firebase_url": "https://quiz-cdbdb.firebaseio.com",
+    "project_id": "quiz-cdbdb",
+    "storage_bucket": "quiz-cdbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014456028350:android:baa7477b072106869822ef",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014456028350-ouuvrvp6mcpminlao5ou03k434iqng5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxyeCCfMGBtID_44WuGTEwEpfXdcQJlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014456028350-ouuvrvp6mcpminlao5ou03k434iqng5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
